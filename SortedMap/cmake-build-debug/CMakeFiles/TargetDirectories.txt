@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/sda/SortedMap/cmake-build-debug/CMakeFiles/SortedMap.dir
+C:/Users/Lenovo/Desktop/sda/SortedMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/sda/SortedMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
